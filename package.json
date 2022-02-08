@@ -1,0 +1,48 @@
+{
+  "_args": [
+    [
+      "@haiku/elomskine-sginvestmentsimplified@0.0.23",
+      "/Users/akaash/workspace/ngts"
+    ]
+  ],
+  "_from": "@haiku/elomskine-sginvestmentsimplified@0.0.23",
+  "_id": "@haiku/elomskine-sginvestmentsimplified@0.0.23",
+  "_inBundle": false,
+  "_integrity": "sha512-x8PVsdMEJV7capYEX5Bh7V85Me821YWwAMxskslEaNBpTfBWmvSEo1KAwy6cuX0LkJJNpwqZXvc4zZb32DbXhQ==",
+  "_location": "/@haiku/elomskine-sginvestmentsimplified",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@haiku/elomskine-sginvestmentsimplified@0.0.23",
+    "name": "@haiku/elomskine-sginvestmentsimplified",
+    "escapedName": "@haiku%2felomskine-sginvestmentsimplified",
+    "scope": "@haiku",
+    "rawSpec": "0.0.23",
+    "saveSpec": null,
+    "fetchSpec": "0.0.23"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://reservoir.haiku.ai:8910/@haiku%2felomskine-sginvestmentsimplified/-/elomskine-sginvestmentsimplified-0.0.23.tgz",
+  "_spec": "0.0.23",
+  "_where": "/Users/akaash/workspace/ngts",
+  "dependencies": {
+    "@haiku/core": "^5.1.1"
+  },
+  "description": "This project was created with [Haiku](https://haiku.ai).",
+  "haiku": {
+    "version": "0.0.23",
+    "username": "eleonora.lam@sigfig.com",
+    "organization": "elomskine",
+    "project": "sginvestmentsimplified",
+    "branch": "master",
+    "folder": "/Users/slu/.haiku/projects/elomskine/sginvestmentsimplified",
+    "uuid": "91a0d677-6819-42e7-ab3f-1d151a85cded",
+    "root": "https://cdn.haiku.ai/c6fe795d-1c38-4597-ba0b-e89a064a17a4/922279e6ce78c7d5a1edd93660359fa3823cca8d/",
+    "core": "5.1.1"
+  },
+  "name": "@haiku/elomskine-sginvestmentsimplified",
+  "version": "0.0.23"
+}
